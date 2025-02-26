@@ -29,3 +29,27 @@ This program is designed to help you master Java programming, starting from the 
 
 ## Repository Structure
 The repository is organized by topics and days for easy navigation:
+
+# Submission of JSON Data
+
+## Overview
+This project demonstrates how to create, validate, and submit JSON data using frontend and backend technologies. JSON (JavaScript Object Notation) is a lightweight data format commonly used for data exchange between a client and a server.
+
+## Features
+- Understanding JSON structure and syntax  
+- Creating and formatting JSON data  
+- Submitting JSON data using HTTP methods (POST, PUT)  
+- Handling JSON in frontend (JavaScript) and backend (Node.js/Express)  
+- Validating JSON format  
+- Security considerations when handling JSON  
+
+## Prerequisites
+- Basic knowledge of JavaScript and APIs  
+- Node.js and npm installed (for backend setup)  
+
+## Installation & Setup
+
+1. **Clone the repository**  
+   ```sh
+   git clone https://github.com/your-username/json-submission.git
+
